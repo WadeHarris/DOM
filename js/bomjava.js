@@ -1,5 +1,5 @@
-//java script for the DOM activity
-//Use the same logoc as creating a list
+//java script for the DOM activity.
+//Use the same logoc as creating a list.
 
 const input = document.querySelector("#favchap");
 
